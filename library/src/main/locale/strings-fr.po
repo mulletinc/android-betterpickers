@@ -1,0 +1,396 @@
+# French translations for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-01-03 13:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(((n == 0) || (n == 1)) ? 0 : 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+msgctxt "picker_cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+msgctxt "picker_set"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "hours_label"
+msgid "h"
+msgstr "h"
+
+msgctxt "minutes_label"
+msgid "m"
+msgstr "m"
+
+msgctxt "seconds_label"
+msgid "s"
+msgstr "s"
+
+msgctxt "hours_label_description"
+msgid "hours"
+msgstr "heures"
+
+msgctxt "minutes_label_description"
+msgid "minutes"
+msgstr "minutes"
+
+msgctxt "seconds_label_description"
+msgid "seconds"
+msgstr "secondes"
+
+msgctxt "timer_delete"
+msgid "Delete"
+msgstr "Effacer"
+
+msgctxt "time_picker_ampm_label"
+msgid "--"
+msgstr "--"
+
+msgctxt "time_picker_time_seperator"
+msgid ":"
+msgstr ":"
+
+msgctxt "time_picker_00_label"
+msgid ":00"
+msgstr ":00"
+
+msgctxt "time_picker_30_label"
+msgid ":30"
+msgstr ":30"
+
+msgctxt "number_picker_minus_label"
+msgid "—"
+msgstr "—"
+
+msgctxt "number_picker_seperator"
+msgid "."
+msgstr "."
+
+msgctxt "number_delete"
+msgid "Delete"
+msgstr "Effacer"
+
+msgctxt "number_picker_plus_minus"
+msgid "+/-"
+msgstr "+/-"
+
+msgctxt "hms_picker_hours_label"
+msgid "H"
+msgstr "H"
+
+msgctxt "hms_picker_minutes_label"
+msgid "M"
+msgstr "M"
+
+msgctxt "hms_picker_seconds_label"
+msgid "S"
+msgstr "S"
+
+msgctxt "expiration_picker_seperator"
+msgid "/"
+msgstr "/"
+
+msgctxt "month_c"
+msgid "MONTH"
+msgstr "MOIS"
+
+msgctxt "day_c"
+msgid "DAY"
+msgstr "JOUR"
+
+msgctxt "year_c"
+msgid "YEAR"
+msgstr "ANNÉE"
+
+#. 1.3.1
+#, c-format
+msgctxt "min_error"
+msgid "Please input a number greater than or equal to %1$s"
+msgstr "S'il vous plaît, veuillez indiquer un nombre plus grand ou égal à %1$s"
+
+#, c-format
+msgctxt "max_error"
+msgid "Please input a number less than or equal to %1$s"
+msgstr "S'il vous plaît, veuillez indiquer un nombre plus petit ou égal à %1$s"
+
+#, c-format
+msgctxt "min_max_error"
+msgid "Please input a number between %1$s and %2$s"
+msgstr "S'il vous plaît, veuillez indiquer un nombre entre %1$s et %2$s"
+
+#. Time validation
+msgctxt "max_time_error"
+msgid "The time entered lays too far in the future"
+msgstr "L'heure saisie est trop loin dans le futur"
+
+msgctxt "min_time_error"
+msgid "The time entered lays too far in the past"
+msgstr "L'heure saisie est trop loin dans le passé"
+
+#. From AOSP
+#. Label for button to confirm chosen date or time [CHAR LIMIT=30]
+msgctxt "done_label"
+msgid "Done"
+msgstr "Fini"
+
+#. Content description for the hour selector in the time picker,
+#. which displays          selectable hours of the day along the inside edge of
+#. a circle, as in an analog clock.          [CHAR LIMIT=50]
+msgctxt "hour_picker_description"
+msgid "Hours circular slider"
+msgstr "Slider d'heures circulaire"
+
+#. Content description for the minute selector in the time picker,
+#. which displays          selectable five-minute intervals along the inside
+#. edge of a circle, as in an analog clock.          [CHAR LIMIT=50]
+msgctxt "minute_picker_description"
+msgid "Minutes circular slider"
+msgstr "Slider de minutes circulaire"
+
+#. Accessibility announcement for hour circular picker [CHAR LIMIT=NONE]
+msgctxt "select_hours"
+msgid "Select hours"
+msgstr "Choisir les heures"
+
+#. Accessibility announcement for minute circular picker [CHAR LIMIT=NONE]
+msgctxt "select_minutes"
+msgid "Select minutes"
+msgstr "Choisir les minutes"
+
+#. Content description for the month and day selector in the date
+#. picker, which displays         a selectable grid of days laid out by month.
+#. [CHAR LIMIT=50]
+msgctxt "day_picker_description"
+msgid "Month grid of days"
+msgstr "Grille mensuelle"
+
+#. Content description for the year selector in the date picker, which
+#. displays         a scrolling, vertical list of years.         [CHAR
+#. LIMIT=50]
+msgctxt "year_picker_description"
+msgid "Year list"
+msgstr "Liste des années"
+
+#. Accessibility announcement for the day picker [CHAR LIMIT=NONE]
+msgctxt "select_day"
+msgid "Select month and day"
+msgstr "Choisir le mois et le jour"
+
+#. Accessibility announcement for the year picker [CHAR LIMIT=NONE]
+msgctxt "select_year"
+msgid "Select year"
+msgstr "Choisir l'année"
+
+#. Accessibility description for the item that is currently selected.
+#, c-format
+msgctxt "item_is_selected"
+msgid "%1$s selected"
+msgstr "%1$s choisi"
+
+#. Accessibility announcement when a number that had been typed in is deleted
+#. [CHAR_LIMIT=NONE]
+#, c-format
+msgctxt "deleted_key"
+msgid "%1$s deleted"
+msgstr "%1$s effacé"
+
+#. Repeat an monthly event on the same day of every month [CHAR LIMIT=20]
+msgctxt "recurrence_month_pattern_by_day"
+msgid "on the same day each month"
+msgstr "le même jour tous les mois"
+
+#. Description of the selected marker for accessibility support [CHAR LIMIT =
+#. NONE]
+msgctxt "acessibility_recurrence_choose_end_date_description"
+msgid "change end date"
+msgstr "modifier la date de fin"
+
+#. The button label for saving an event
+msgctxt "save_label"
+msgid "Done"
+msgstr "Fini"
+
+#. Specifies that a repeating event to repeat forever (based on the defined
+#. frequency) instead of ending at a future date[CHAR LIMIT=20]
+msgctxt "recurrence_end_continously"
+msgid "Forever"
+msgstr "Toujours"
+
+#. Specifies that a repeating event to repeat until a certain date[CHAR
+#. LIMIT=25]
+msgctxt "recurrence_end_date_label"
+msgid "Until a date"
+msgstr "Jusqu'à une date"
+
+#. Specifies that a repeating event to repeat until a certain date[CHAR
+#. LIMIT=20]
+#, c-format
+msgctxt "recurrence_end_date"
+msgid "Until <xliff:g id=\"date\">%s</xliff:g>"
+msgstr "Jusqu'au <xliff:g id=\"date\">%s</xliff:g>"
+
+#. Specifies that a repeating event to repeat for a number of times. A
+#. repeating event can repeat forever, repeat in a certain frequency until a
+#. certain date, or repeat for a number of times. e.g. repeat 10 times and
+#. stop. This string is for the last case [CHAR LIMIT=25]
+msgctxt "recurrence_end_count_label"
+msgid "For a number of events"
+msgstr "Pour un nombre d'événements"
+
+#. Strings to describe how frequently to repeat an event (e.g. every 5 hours)
+#, c-format
+msgctxt "recurrence_interval_hourly"
+msgid "Every <xliff:g id=\"count\">%d</xliff:g> hour"
+msgid_plural "Every <xliff:g id=\"count\">%d</xliff:g> hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Strings to describe how frequently to repeat an event (e.g. every 5 days)
+#, c-format
+msgctxt "recurrence_interval_daily"
+msgid "Every <xliff:g id=\"count\">%d</xliff:g> day"
+msgid_plural "Every <xliff:g id=\"count\">%d</xliff:g> days"
+msgstr[0] "Tous les <xliff:g id=\"count\">%d</xliff:g> jour"
+msgstr[1] "Tous les <xliff:g id=\"count\">%d</xliff:g> jours"
+
+#. Strings to describe how frequently to repeat an event (e.g. every 5 weeks)
+#, c-format
+msgctxt "recurrence_interval_weekly"
+msgid "Every <xliff:g id=\"count\">%d</xliff:g> week"
+msgid_plural "Every <xliff:g id=\"count\">%d</xliff:g> weeks"
+msgstr[0] "Toutes les <xliff:g id=\"count\">%d</xliff:g> semaine"
+msgstr[1] "Toutes les <xliff:g id=\"count\">%d</xliff:g> semaines"
+
+#. Strings to describe how frequently to repeat an event (e.g. every 5 months)
+#, c-format
+msgctxt "recurrence_interval_monthly"
+msgid "Every <xliff:g id=\"count\">%d</xliff:g> month"
+msgid_plural "Every <xliff:g id=\"count\">%d</xliff:g> months"
+msgstr[0] "Tous les <xliff:g id=\"count\">%d</xliff:g> mois"
+msgstr[1] "Tous les <xliff:g id=\"count\">%d</xliff:g> mois"
+
+#. Strings to describe how frequently to repeat an event (e.g. every 5 years)
+#, c-format
+msgctxt "recurrence_interval_yearly"
+msgid "Every <xliff:g id=\"count\">%d</xliff:g> year"
+msgid_plural "Every <xliff:g id=\"count\">%d</xliff:g> years"
+msgstr[0] "Toutes les <xliff:g id=\"count\">%d</xliff:g> année"
+msgstr[1] "Toutes les <xliff:g id=\"count\">%d</xliff:g> années"
+
+#. Specifies that a repeating event should repeat for a certain number of
+#. iterations. [CHAR LIMIT=20]
+#, c-format
+msgctxt "recurrence_end_count"
+msgid "For <xliff:g id=\"event_count\">%d</xliff:g> event"
+msgid_plural "For <xliff:g id=\"event_count\">%d</xliff:g> events"
+msgstr[0] "Pour <xliff:g id=\"event_count\">%d</xliff:g> événement"
+msgstr[1] "Pour <xliff:g id=\"event_count\">%d</xliff:g> événements"
+
+#. Part of a description of an repeating event. This part states the date when
+#. a repeating          event ends. The part before the semi-colon describes
+#. how it repeats.          e.g. Every 2 weeks; until 1/1/2030 [CHAR LIMIT=21]
+#, c-format
+msgctxt "endByDate"
+msgid "; until <xliff:g id=\"date\">%s</xliff:g>"
+msgstr "; jusqu'à <xliff:g id=\"date\">%s</xliff:g>"
+
+#. Part of a description of an repeating event. This part how many times the
+#. event repeats.          The part before the semi-colon describes how it
+#. repeats.          e.g. Every 2 weeks; for 15 times [CHAR LIMIT=15]
+#, c-format
+msgctxt "endByCount"
+msgid "; for one time"
+msgid_plural "; for <xliff:g id=\"number\">%d</xliff:g> times"
+msgstr[0] "; pour une fois"
+msgstr[1] "; pour <xliff:g id=\"number\">%d</xliff:g> fois"
+
+#. A description for an event that repeats daily. For example, Every 2 days
+#. [CHAR LIMIT=15]
+#, c-format
+msgctxt "hourly"
+msgid "Hourly"
+msgid_plural "Every <xliff:g id=\"number\">%d</xliff:g> hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#. A description for an event that repeats daily. For example, Every 2 days
+#. [CHAR LIMIT=15]
+#, c-format
+msgctxt "daily"
+msgid "Daily"
+msgid_plural "Every <xliff:g id=\"number\">%d</xliff:g> days"
+msgstr[0] "Quotidien"
+msgstr[1] "Tous les <xliff:g id=\"number\">%d</xliff:g> jours"
+
+#. A description for an event that repeats weekly on some day of the week. For
+#. example,          'Weekly on Tuesday' or Every 2 weeks on Monday, Tuesday.
+#. [CHAR LIMIT=25]
+#, c-format
+msgctxt "weekly"
+msgid "Weekly on <xliff:g id=\"days_of_week\">%2$s</xliff:g>"
+msgid_plural ""
+"Every <xliff:g id=\"number\">%1$d</xliff:g> weeks on <xliff:g "
+"id=\"days_of_week\">%2$s</xliff:g>"
+msgstr[0] "Hebdomadaire le <xliff:g id=\"days_of_week\">%2$s</xliff:g>"
+msgstr[1] ""
+"Toutes les <xliff:g id=\"number\">%1$d</xliff:g> semaines le <xliff:g "
+"id=\"days_of_week\">%2$s</xliff:g>"
+
+#. The common portion of a string describing how often an event repeats,
+#. example: 'Monthly (on day 2)'
+msgctxt "monthly"
+msgid "Monthly"
+msgstr "Mensuel"
+
+#. Calendar spinner item, to select that an event recurs every year.
+msgctxt "yearly_plain"
+msgid "Yearly"
+msgstr "Annuel"
+
+#. Hint text to encourage the user to enter a country name to find a time zone
+#. [CHAR LIMIT=25]
+msgctxt "hint_time_zone_search"
+msgid "Type country name"
+msgstr "Nom du pays"
+
+#. Description of clear icon in the search bar, for accessibility. [CHAR
+#. LIMIT=NONE]
+msgctxt "searchview_description_clear"
+msgid "Clear query"
+msgstr "Effacer"
+
+#. Item to show when no timezones are found. [CHAR LIMIT=NONE]
+msgctxt "no_results_found"
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+#. Name to be displayed for "Palestine". This will be used when searching for
+#. a country to          select a timezone. [CHAR LIMIT=NONE]          *NOTE*:
+#. Please be sure to translate this as "Palestine", specifically instead of
+#. "Palestinian Territories". This is for use following Google's updated policy
+#. on                  this matter.
+msgctxt "palestine_display_name"
+msgid "Palestine"
+msgstr "Palestine"
+
+msgctxt "switch_on"
+msgid "ON"
+msgstr "ON"
+
+msgctxt "switch_off"
+msgid "OFF"
+msgstr "OFF"
+

@@ -1,0 +1,487 @@
+# Czech translations for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-01-03 13:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=4; plural=((((n >= 2 && n <= 4)) && ((0 == 0))) ? "
+"1 : (!((0 == 0))) ? 2 : (((n == 1)) && ((0 == 0))) ? 0 : 3)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+#. Recurrence picker: How events are to be repeated.  [CHAR LIMIT = 20]
+msgctxt "recurrence_freq:0"
+msgid "REPEAT HOURLY"
+msgstr "OPAKOVAT PO HODINĚ"
+
+#. Recurrence picker: How events are to be repeated.  [CHAR LIMIT = 20]
+msgctxt "recurrence_freq:1"
+msgid "REPEAT DAILY"
+msgstr "OPAKOVAT DENNĚ"
+
+#. Recurrence picker: How events are to be repeated.  [CHAR LIMIT = 20]
+msgctxt "recurrence_freq:2"
+msgid "REPEAT WEEKLY"
+msgstr "OPAKOVAT TÝDNĚ"
+
+#. Recurrence picker: How events are to be repeated.  [CHAR LIMIT = 20]
+msgctxt "recurrence_freq:3"
+msgid "REPEAT MONTHLY"
+msgstr "OPAKOVAT MĚSÍČNĚ"
+
+#. Recurrence picker: How events are to be repeated.  [CHAR LIMIT = 20]
+msgctxt "recurrence_freq:4"
+msgid "REPEAT YEARLY"
+msgstr "OPAKOVAT ROČNĚ"
+
+#. The following sets of strings describe a monthly recurring event, which
+#. will repeat          on the Nth WEEKDAY of every month. For example, the 3rd
+#. Monday of every month, or          the last Sunday. These are set up like
+#. this to resolve any gender-matching issues          that were present in
+#. some languages.
+#. Repeat a monthly event on the same nth day of every Sunday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_sun:0"
+msgid "on every first Sunday"
+msgstr "každou první neděli"
+
+#. The following sets of strings describe a monthly recurring event, which
+#. will repeat          on the Nth WEEKDAY of every month. For example, the 3rd
+#. Monday of every month, or          the last Sunday. These are set up like
+#. this to resolve any gender-matching issues          that were present in
+#. some languages.
+#. Repeat a monthly event on the same nth day of every Sunday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_sun:1"
+msgid "on every second Sunday"
+msgstr "každou druhou neděli"
+
+#. The following sets of strings describe a monthly recurring event, which
+#. will repeat          on the Nth WEEKDAY of every month. For example, the 3rd
+#. Monday of every month, or          the last Sunday. These are set up like
+#. this to resolve any gender-matching issues          that were present in
+#. some languages.
+#. Repeat a monthly event on the same nth day of every Sunday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_sun:2"
+msgid "on every third Sunday"
+msgstr "každou třetí neděli"
+
+#. The following sets of strings describe a monthly recurring event, which
+#. will repeat          on the Nth WEEKDAY of every month. For example, the 3rd
+#. Monday of every month, or          the last Sunday. These are set up like
+#. this to resolve any gender-matching issues          that were present in
+#. some languages.
+#. Repeat a monthly event on the same nth day of every Sunday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_sun:3"
+msgid "on every fourth Sunday"
+msgstr "každou čtvrtou neděli"
+
+#. The following sets of strings describe a monthly recurring event, which
+#. will repeat          on the Nth WEEKDAY of every month. For example, the 3rd
+#. Monday of every month, or          the last Sunday. These are set up like
+#. this to resolve any gender-matching issues          that were present in
+#. some languages.
+#. Repeat a monthly event on the same nth day of every Sunday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_sun:4"
+msgid "on every last Sunday"
+msgstr "každou poslední neděli"
+
+#. Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_mon:0"
+msgid "on every first Monday"
+msgstr "každé první pondělí"
+
+#. Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_mon:1"
+msgid "on every second Monday"
+msgstr "každé druhé pondělí"
+
+#. Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_mon:2"
+msgid "on every third Monday"
+msgstr "každé třetí pondělí"
+
+#. Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_mon:3"
+msgid "on every fourth Monday"
+msgstr "každé čtvrté pondělí"
+
+#. Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_mon:4"
+msgid "on every last Monday"
+msgstr "každé poslední pondělí"
+
+#. Repeat a monthly event on the same nth day of every Tuesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_tues:0"
+msgid "on every first Tuesday"
+msgstr "každé první úterý"
+
+#. Repeat a monthly event on the same nth day of every Tuesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_tues:1"
+msgid "on every second Tuesday"
+msgstr "každé druhé úterý"
+
+#. Repeat a monthly event on the same nth day of every Tuesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_tues:2"
+msgid "on every third Tuesday"
+msgstr "každé třetí úterý"
+
+#. Repeat a monthly event on the same nth day of every Tuesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_tues:3"
+msgid "on every fourth Tuesday"
+msgstr "každé čtvrté úterý"
+
+#. Repeat a monthly event on the same nth day of every Tuesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_tues:4"
+msgid "on every last Tuesday"
+msgstr "každé poslední úterý"
+
+#. Repeat a monthly event on the same nth day of every Wednesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_wed:0"
+msgid "on every first Wednesday"
+msgstr "každou první středu"
+
+#. Repeat a monthly event on the same nth day of every Wednesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_wed:1"
+msgid "on every second Wednesday"
+msgstr "každou druhou středu"
+
+#. Repeat a monthly event on the same nth day of every Wednesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_wed:2"
+msgid "on every third Wednesday"
+msgstr "každou třetí středu"
+
+#. Repeat a monthly event on the same nth day of every Wednesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_wed:3"
+msgid "on every fourth Wednesday"
+msgstr "každou čtvrtou středu"
+
+#. Repeat a monthly event on the same nth day of every Wednesday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_wed:4"
+msgid "on every last Wednesday"
+msgstr "každou poslední středu"
+
+#. Repeat a monthly event on the same nth day of every Thursday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_thurs:0"
+msgid "on every first Thursday"
+msgstr "každý první čtvrtek"
+
+#. Repeat a monthly event on the same nth day of every Thursday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_thurs:1"
+msgid "on every second Thursday"
+msgstr "každý druhý čtvrtek"
+
+#. Repeat a monthly event on the same nth day of every Thursday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_thurs:2"
+msgid "on every third Thursday"
+msgstr "každý třetí čtvrtek"
+
+#. Repeat a monthly event on the same nth day of every Thursday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_thurs:3"
+msgid "on every fourth Thursday"
+msgstr "každý čtvrtý čtvrtek"
+
+#. Repeat a monthly event on the same nth day of every Thursday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_thurs:4"
+msgid "on every last Thursday"
+msgstr "každý poslední čtvrtek"
+
+#. Repeat a monthly event on the same nth day of every Friday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_fri:0"
+msgid "on every first Friday"
+msgstr "každý první pátek"
+
+#. Repeat a monthly event on the same nth day of every Friday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_fri:1"
+msgid "on every second Friday"
+msgstr "každý druhý pátek"
+
+#. Repeat a monthly event on the same nth day of every Friday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_fri:2"
+msgid "on every third Friday"
+msgstr "každý třetí pátek"
+
+#. Repeat a monthly event on the same nth day of every Friday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_fri:3"
+msgid "on every fourth Friday"
+msgstr "každý čtvrtý pátek"
+
+#. Repeat a monthly event on the same nth day of every Friday. [CHAR LIMIT=30]
+msgctxt "repeat_by_nth_fri:4"
+msgid "on every last Friday"
+msgstr "každý poslední pátek"
+
+#. Repeat a monthly event on the same nth day of every Saturday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_sat:0"
+msgid "on every first Saturday"
+msgstr "každou první sobotu"
+
+#. Repeat a monthly event on the same nth day of every Saturday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_sat:1"
+msgid "on every second Saturday"
+msgstr "každou druhou sobotu"
+
+#. Repeat a monthly event on the same nth day of every Saturday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_sat:2"
+msgid "on every third Saturday"
+msgstr "každou třetí sobotu"
+
+#. Repeat a monthly event on the same nth day of every Saturday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_sat:3"
+msgid "on every fourth Saturday"
+msgstr "každou čtvrtou sobotu"
+
+#. Repeat a monthly event on the same nth day of every Saturday. [CHAR
+#. LIMIT=30]
+msgctxt "repeat_by_nth_sat:4"
+msgid "on every last Saturday"
+msgstr "každou poslední sobotu"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:0"
+msgid "Australian Central - NT"
+msgstr "Středoaustralský čas - NT"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:1"
+msgid "Australian Central - SA"
+msgstr "Středoaustralský čas - SA"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:2"
+msgid "Australian Eastern - QLD"
+msgstr "Východoaustralský čas - QLD"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:3"
+msgid "Australian Eastern - NSW"
+msgstr "Východoaustralský čas - NSW"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:4"
+msgid "Mountain Standard - Dawson Creek"
+msgstr "Horský standardní - Dawson Creek"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:5"
+msgid "Central Standard - Saskatchewan"
+msgstr "Centrální standardní - Saskat…"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:6"
+msgid "Eastern Standard - Atikokan"
+msgstr "Východní standardní - Atikokan"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:7"
+msgid "Atlantic Standard - Quebec"
+msgstr "Atlantický standardní - Quebec"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:8"
+msgid "Hawaii-Aleutian - Hawaii"
+msgstr "Hawajsko-Aleutský - Hawaii"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:9"
+msgid "Hawaii-Aleutian - Alaska"
+msgstr "Hawajsko-Aleutský - Alaska"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:10"
+msgid "Pacific Standard - Metlakatla"
+msgstr "Pacifický standardní - Metlak…"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:11"
+msgid "Mountain Standard - Arizona"
+msgstr "Horský standardní - Arizona"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:12"
+msgid "Pacific - Baja California"
+msgstr "Pacifický - Baja California"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:13"
+msgid "Mountain - Chihuahua"
+msgstr "Horský - Chihuahua"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:14"
+msgid "Central - Tamaulipas"
+msgstr "Centrální - Tamaulipas"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:15"
+msgid "Mountain - Sonora"
+msgstr "Horský - Sonora"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:16"
+msgid "East Africa Time"
+msgstr "Východoafrický čas"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:17"
+msgid "Atlantic Standard Time"
+msgstr "Atlantic Standard Time"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:18"
+msgid "Atlantic Standard Time"
+msgstr "Atlantic Standard Time"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:19"
+msgid "Eastern European Time"
+msgstr "Východoevropský čas"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:20"
+msgid "Kaliningrad Time"
+msgstr "Kaliningrad Time"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:21"
+msgid "Amazon - Rondônia"
+msgstr "Amazon - Rondônia"
+
+#. Replacement display strings for time zones. The order should match
+#. the entries in         timezone_rename_ids         ALWAYS ADD NEW ENTRIES AT
+#. THE END. Othewise the array will not be the same size until         all the
+#. translations are available. [CHAR LIMIT=32]
+msgctxt "timezone_rename_labels:22"
+msgid "Brasilia - Pará"
+msgstr "Brasilia - Pará"
+
+#. Display strings for country names. Used only if framework doesn't
+#. have translated         country names. The order should match the entries in
+#. backup_country_codes         ALWAYS ADD NEW ENTRIES AT THE END. Othewise the
+#. array will not be the same size until         all the translations are
+#. available. [CHAR LIMIT=32]
+msgctxt "backup_country_names:0"
+msgid "Sint Maarten"
+msgstr "Sint Maarten"
+
+#. Display strings for country names. Used only if framework doesn't
+#. have translated         country names. The order should match the entries in
+#. backup_country_codes         ALWAYS ADD NEW ENTRIES AT THE END. Othewise the
+#. array will not be the same size until         all the translations are
+#. available. [CHAR LIMIT=32]
+msgctxt "backup_country_names:1"
+msgid "Caribbean Netherlands"
+msgstr "Caribbean Netherlands"
+
+#. Display strings for country names. Used only if framework doesn't
+#. have translated         country names. The order should match the entries in
+#. backup_country_codes         ALWAYS ADD NEW ENTRIES AT THE END. Othewise the
+#. array will not be the same size until         all the translations are
+#. available. [CHAR LIMIT=32]
+msgctxt "backup_country_names:2"
+msgid "Curaçao"
+msgstr "Curaçao"
+
+#. Display strings for country names. Used only if framework doesn't
+#. have translated         country names. The order should match the entries in
+#. backup_country_codes         ALWAYS ADD NEW ENTRIES AT THE END. Othewise the
+#. array will not be the same size until         all the translations are
+#. available. [CHAR LIMIT=32]
+msgctxt "backup_country_names:3"
+msgid "South Sudan"
+msgstr "South Sudan"
+
